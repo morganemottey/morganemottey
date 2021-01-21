@@ -6,6 +6,7 @@ My name is Morgane ,
     🫀 I’m looking to collaborate with a new adventure;
     💻 I’m currently working on something cool 😉;
     🐘 I’m currently finish to learning Symfony 5;
+    🧠 I was able to work with a lot of languages like : React , Vue , Node or PHP.
     💬 Ask me about anything, I am happy to help;
     📲 How to reach me: morgane.mottey@gmail.com
     
